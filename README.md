@@ -10,6 +10,4 @@ This project aims at exploring the relation between war game rule setting and ga
 
 Text Summarization, Query Expansion, Canonical Correlation Analysis, Board Game
 
-[wargame.pdf](https://github.com/serafinazhang/Board-Game-Texual-Analysis/files/7230368/wargame.pdf)
-
-
+![wargame drawio](https://user-images.githubusercontent.com/59978350/134786313-48187d31-84b1-4da5-a6ab-9bb80e6b19af.png)
